@@ -1,0 +1,15 @@
+
+Part 4-
+
+A1-
+Women, children, and first-class passengers show the highest survival probability. Therefore, evacuation strategies should prioritize these groups.
+
+A2- 
+a)Bias against men or lower-class passengers
+
+b)Age discrimination
+
+c)Algorithm deciding human life
+
+A3-
+Instead of survival, model would predict risk. Features like health, income, and age would influence premium pricing
